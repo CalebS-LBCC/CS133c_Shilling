@@ -1,0 +1,34 @@
+readNumber() test 1: Type the number 1021.
+1021
+readNumber() test 2: Type the number 20123.
+20123
+readNumber() test 3: Type the number 123.
+123
+readNumber() test 4: Type the number 0.
+0
+readNumber() test 5: Type the number 7.
+7
+readNumber() test 6: Type the number -1.
+-1
+readNumber() test 7: Type the number -64.
+-64
+readNumber() test 8: Type the number -888.
+-888
+readNumber() test 9: Type the number -6021.
+-6021
+readNumber() test 10: Type the number 45.
+45
+readnumber() test finished.
+
+test_answers() test 1 passed.
+test_answers() test 2 passed.
+test_answers() test 3 passed.
+test_answers() test 4 passed.
+test_answers() test 5 passed.
+test_answers() test 6 passed.
+test_answers() test 7 passed.
+test_answers() test 8 passed.
+test_answers() test 9 passed.
+test_answers() test 10 passed.
+isPositive() test finished.
+
