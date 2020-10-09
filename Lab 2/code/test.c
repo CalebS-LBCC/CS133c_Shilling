@@ -85,5 +85,4 @@ void main(){
 
     // Sleep function: https://stackoverflow.com/questions/10922900/is-it-possible-to-wait-a-few-seconds-before-printing-a-new-line-in-c
     Sleep(25000);
-    getchar();
 }
