@@ -1,0 +1,5 @@
+01 company_a open 5417420980 www.companyA.com
+02 company_b open 5419810808 www.companyB.com
+03 company_c open 5419213282 www.companyC.com
+04 company_d open 5418218323 www.companyD.com
+05 company_e open 5418793652 www.companyE.com

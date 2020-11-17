@@ -1,0 +1,10 @@
+1 product_1 1 30 0
+2 product_2 1 12 8
+3 product_3 2 19 2
+4 product_4 2 50 7
+5 product_5 3 80 15
+6 product_6 3 40 3
+7 product_7 4 36 9
+8 product_8 4 87 5
+9 product_9 5 20 4
+10 product_10 5 99 1
